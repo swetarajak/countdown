@@ -136,6 +136,9 @@ h2{
         height:1000px;
        
       }
+      h2{
+        display : block;
+      }
     .over {
       margin: auto;
       width: 50%;
